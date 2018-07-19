@@ -1,0 +1,95 @@
+body{
+background: #585858
+
+}
+
+img{
+	width: 1023px;
+
+}
+fieldset{
+	width: 1023px;
+
+}
+label{
+	display: block;
+	float:   left;
+
+}
+label,input{
+
+	width: 61px;
+	margin: 3px 0;
+
+}
+
+a{
+
+
+}
+#primeiroNome{
+	font-size: 16px;
+	font-family: arial;
+	
+	
+	
+}
+
+
+
+
+#magro {
+	width: 100px;
+	padding: 50px;
+	background-color: yellow;
+	color: black;
+	font-size: 25px;
+	
+}
+
+#ideal {
+	width: 100px;
+	padding: 50px;
+	background-color: green;
+	color: black;
+	font-size: 25px;
+}
+
+#obeso {
+	width: 100px;
+	padding: 50px;
+	background-color: red;
+	color: black;
+	font-size: 25px;
+}
+
+
+
+.amarelo,.red,.preto,.verde{
+	width: 150px;
+	height: 150px;
+	border: solid 8px;
+	background-color: yellow;
+	border color: black;
+	border-radius: 50%;
+	display: inline-block;
+}
+
+
+.red{
+	background-color: red;
+	border color: black;
+}
+.preto{
+	background-color: black;
+	border color: red;
+}
+.verde{
+	background-color: green;
+	border color: black;
+}
+
+.amarelo{
+	background-color: yellow;
+	border color: black;
+}
